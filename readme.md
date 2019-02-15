@@ -127,8 +127,8 @@ Ready! Just use the client's credentials when using the api.
 
 ### Scopes
 
-manager:All Privileges
-list-car: List the cars
-create-car: Create a car
-update-car: Update a car
-delete-car: Delete a car
+manager: All Privileges<br>
+list-car: List the cars<br>
+create-car: Create a car<br>
+update-car: Update a car<br>
+delete-car: Delete a car<br>
